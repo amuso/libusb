@@ -1,9 +1,17 @@
 # libusb for Mac OS X
 ## Version 1.0.21
 
+For building rtl-sdr (and other software packages)
+
 ## Requirements
 
+- Xcode command line tools
+
 ## Building
+
+```
+xcode-select --install
+```
 
 ```
 wget https://github.com/libusb/libusb/releases/download/v1.0.21/libusb-1.0.21.tar.bz2
