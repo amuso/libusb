@@ -2,6 +2,7 @@
 ## Version 1.0.21
 
 Read more at http://www.libusb.org.
+
 For building rtl-sdr (and other software packages).
 
 ## Requirements
