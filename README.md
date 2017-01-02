@@ -1,7 +1,8 @@
 # libusb for Mac OS X
 ## Version 1.0.21
 
-For building rtl-sdr (and other software packages)
+Read more at http://www.libusb.org.
+For building rtl-sdr (and other software packages).
 
 ## Requirements
 
